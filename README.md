@@ -1,9 +1,11 @@
-# Livro Sinopse - Site de Busca de Livros
-
-Este projeto é um site de busca de livros, inspirado na interface de pesquisa do Bing, que permite aos usuários pesquisar sinopses de livros diretamente da API do Google Books. O site exibe informações como título, autor, descrição e imagem da capa dos livros encontrados.
-
-## Funcionalidades
-
-- **Pesquisa de Livros**: O usuário pode pesquisar livros usando um campo de entrada.
-- **Exibição de Sinopses**: A sinopse (ou descrição) do livro será exibida, junto com o título, autor e imagem da capa.
-- **Interface Simples e Responsiva**: A interface segue o estilo minimalista inspirado no Bing, com design responsivo para diferentes dispositivos.
+Título ou Nome da aplicação: Koobing
+Identificação/Autor: João Arthur da Silva Dantas
+Descrição do projeto: Site de pesquisa de sinopse de livros utilizando a Google Books API.
+Prototipação no Figma: https://www.figma.com/design/KQTDKcPTH5zDG9mkePPEgt/Untitled?node-id=0-1&p=f&t=1fakta1Xe4TIb7l1-0
+Design System: https://www.figma.com/design/6CiUaYtz2WW4s8ZW4jN5iu/Design-System?t=1fakta1Xe4TIb7l1-0
+Framework CSS: Materialize.
+Dependências: JQuery e JQuery Mask Plugin.
+Link para o site em produção: URL para acessar o site publicado no GitHub Pages.
+Checklist de Funcionalidades: Uma lista de funcionalidades marcadas como concluídas (ou não) durante o desenvolvimento. 
+Instruções de Execução: Passos detalhados para configurar e executar a aplicação localmente.
+Telas da Aplicação: Imagens de algumas telas da aplicação. 
